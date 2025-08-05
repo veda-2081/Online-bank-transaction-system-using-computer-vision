@@ -113,7 +113,7 @@ message = client.messages.create(
 ---
 ## 🎥 Demo Video
 
-👉 [Watch the video demo](WhatsApp Video 2025-06-25 at 14.20.41.mp4)
+👉 [Watch the video demo](media/WhatsApp Video 2025-06-25 at 14.20.41.mp4)
 
 ---
 
