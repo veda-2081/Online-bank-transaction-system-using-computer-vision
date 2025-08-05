@@ -83,7 +83,7 @@ pip install dlib
 ## 🚀 How to Run the Project
 
 ```bash
-python main.py
+python 1.py
 ```
 
 ---
